@@ -6,17 +6,21 @@
 
 4. Our overall goals for this project are to create an accurate and efficient model that shows cat behavior. To meet these goals, we will work together as a group to continually make progress on our project. We will ask questions when needed and create realistic goals for ourselves to keep track with.
 
+# Everyone
+Find a least two datasets 
+Everyone works on the code 
+
 Shanze
-- 
+- assist in presentation
 
 Yashika
-- 
+- assist in presentation
 
 Carla
-- 
+- Make and finalizing the presentation
 
 Ebise
-- 
+- Making and finalizing the abstract
 
 Anya
 - 
