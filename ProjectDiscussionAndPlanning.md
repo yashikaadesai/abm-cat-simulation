@@ -9,18 +9,18 @@
 # Everyone
 Find a least two datasets 
 Everyone works on the code 
+- Everyone is in charge of picking one cat to test the given data on
+- Based on the data collected we will compare all tested cats
 
 Shanze
-- assist in presentation
+- assist in presentation/abstract
 
 Yashika
 - assist in presentation
 
 Carla
-- Make and finalizing the presentation
+- Make and finalize the presentation
 
 Ebise
 - Making and finalizing the abstract
 
-Anya
-- 
