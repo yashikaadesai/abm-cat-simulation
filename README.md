@@ -1,6 +1,9 @@
 # Cat Behaviour Agent-Based Model
 
-### Yashika Desai,Shanze Owais,Carla Carreon-Elisea,Ebise Tarekegn
+- Yashika Desai
+- Shanze Owais 
+- Carla Carreon-Elisea
+- Ebise Tarekegn
 
 Have you ever wanted to test and see what different personality types of cats would interact with one another? 
 
