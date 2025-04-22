@@ -1,10 +1,10 @@
 # Cat Behaviour Agent-Based Model
 
 
-Yashika Desai Role: Programmer
-Shanze Owais Role: Programmer
-Carla Carreon-Elisea Role: Programmer 
-Ebise Tarekegn Role: Abstract, PowerPoint
+- Yashika Desai Role: Programmer
+- Shanze Owais Role: Programmer
+- Carla Carreon-Elisea Role: Programmer, PowerPoint
+- Ebise Tarekegn Role: Abstract, PowerPoint
 
 Have you ever wanted to test and see what different personality types of cats would interact with one another? 
 
